@@ -1,4 +1,4 @@
-### SE-1223 is a full-term course (1/2)
+### SE-2225 is a full-term course (1/2)
 
 ![stuck](images/stuck.png) <!-- .element style="width: 530px; height: 200px;" -->
 
@@ -25,14 +25,14 @@
 
 
 
-### SE-1223 is a full-term course (2/2)
+### SE-2225 is a full-term course (2/2)
 
 * No distinction between lecture and lab
 * Short lecture, few examples, and then problem set
   - it serves as your lab component along with final project
-* In a normal semester, SE-1223 is 3-hours lecture and 3-hours lab per week
-  - For this semester, SE-1223 is:
-    + 6-hours _"lecture"_ for the first subterm (7:00-8:30 AM MTThF)
-    + 6-hours _"lab"_ for the second subterm (4:00-5:30 PM MTThF)
+* In a normal semester, SE-2225 is 2-hours lecture and 3-hours lab per week
+  - For this semester, SE-2225 is:
+    + 4-hours _"lecture"_ for the first subterm (10:00-12:00 PM ThF)
+    + 6-hours _"lab"_ for the second subterm (1:00-4:00 PM ThF)
 * BUT AGAIN, no distinction between lecture and lab
   - loopholey and ninja-ish, but it's for your own good 😅
